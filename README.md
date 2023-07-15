@@ -7,7 +7,10 @@ Exercícios de [NASM](https://www.nasm.us/) para a disciplina Software Básico.
 
 Tarefas executadas:
 1. **[Pré-Processador]** Construa macros para simular o comando for em C
-2. **[Montador NASM]** Construa um programa em C que chama um programa em NASM para exemplificar o uso de bibliotecas nativas do C (por exemplo, a `stdio`)
+   - `src/for_loop.asm`
+3. **[Montador NASM]** Construa um programa em C que chama um programa em NASM para exemplificar o uso de bibliotecas nativas do C (por exemplo, a `stdio`)
+   - `src/system_info.asm`
+   - `src/call_nasm.c`
 
 -----
 
