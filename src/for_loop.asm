@@ -1,3 +1,7 @@
+; [Montador NASM] Construa um programa em C que chama um programa em
+; NASM para exemplificar o uso de bibliotecas nativas do C (por exemplo,
+; a stdio)
+
 section .data
     num db 'OK '
     len equ $ - num
