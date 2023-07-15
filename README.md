@@ -9,6 +9,8 @@ Tarefas executadas:
 1. **[Pré-Processador]** Construa macros para simular o comando for em C
 2. **[Montador NASM]** Construa um programa em C que chama um programa em NASM para exemplificar o uso de bibliotecas nativas do C (por exemplo, a `stdio`)
 
+-----
+
 Membros (Grupo 05)
 - **190036559** - Pedro Lisias Viana Arcoverde Alves
 - **200067184** - Maria Eduarda Lacerda Dantas
