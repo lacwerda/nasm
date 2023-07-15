@@ -1,0 +1,9 @@
+190036559 - Pedro Lisias Viana Arcoverde Alves: Elaboração de programa em NASM e elaboração de slides.
+
+200067184 - Maria Eduarda Lacerda Dantas: Elaboração e debug de programa de FOR loop em NASM.
+
+180108069 - Pedro Fernandes: Elaboração e debug de programa de FOR loop em NASM.
+
+190087331 - Gabriel Amaro Baxto da Silva: Elaboração de programa em C para chamada de rotina em NASM.
+
+190105747 - Emanuel Firmino Abrantes: Elaboração de programa em NASM para chamada de biblioteca em C e debug de programa em C.
