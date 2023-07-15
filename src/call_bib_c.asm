@@ -1,3 +1,6 @@
+; [Pré-Processador] Construa um programa em C que chama um programa em NASM
+; para exemplificar o uso de bibliotecas nativas do C (por exemplo, a stdio)
+
 section .data
     sys_uname equ 63 ; codigo do comando 'uname' do linux x64
     buf_size equ 65  ; atribui o valor 65 à variável buf_size 
